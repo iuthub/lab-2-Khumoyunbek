@@ -1,0 +1,92 @@
+
+body {
+	margin: auto;
+}
+
+.img_aven {
+	float:left;
+	margin: 0 20px 30px 0;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+}
+
+p {
+	font-size: 22pt;
+	line-height: 1.6;
+}
+
+li {
+	clear: left;
+	font-size: 30pt;
+	font-family: Georgia;
+}
+
+.nav_bar {
+	height: 50px;
+	background-image: url(back.img);
+	padding-top: 20px;
+	text-align: center;
+	border-bottom: 10px solid yellowgreen; 
+	margin-bottom: 50px;
+}
+
+ .nav_links {
+ 	border-left: 3px solid antiquewhite;
+ 	border-right: 3px solid antiquewhite;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	text-decoration: none;
+ 	color: blue;
+ 	margin: auto 10px;
+ }
+
+ .nav_links:hover {
+ 	background-color: gold;
+ }
+ .info{
+ 	text-align: center;
+ }
+ .img_photo1{
+
+ 	align-content: center;
+
+ }
+ .img_basket
+ {
+ 	float: right;
+ }
+ .img_travel{
+ 	float: right;
+ }
+
+.hus{
+	float: center;
+	margin-left:40%;
+}
+#time{
+	 font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;
+}
+#time td, #time th{
+	border: 1px solid #191970;
+    padding: 8px;
+}
+#time tr:nth-child(even){background-color: #00CED1;}
+#time tr:hover {background-color: #C71585;}
+#time th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #00FA9A;
+    color: white;
+}
+.h1 {
+	margin-top: 170px;
+	margin-bottom: 0px; 
+	clear: right;
+}
